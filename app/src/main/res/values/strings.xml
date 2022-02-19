@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string-array name="num_of_questions_options">
+        <item>"10"</item>
+        <item>"20"</item>
+        <item>"30"</item>
+    </string-array>
+    <string-array name="difficulty_options">
+        <item>"Any Difficulty"</item>
+        <item>"Easy"</item>
+        <item>"Medium"</item>
+        <item>"Hard"</item>
+    </string-array>
+    <string-array name="category_options">
+        <item>"Any Category"</item>
+        <item>"General Knowledge"</item>
+        <item>"Books"</item>
+        <item>"Film"</item>
+        <item>"Music"</item>
+        <item>"Television"</item>
+        <item>"Science and Nature"</item>
+        <item>"Computers"</item>
+        <item>"Mathematics"</item>
+        <item>"Mythology"</item>
+        <item>"Sports"</item>
+        <item>"Geography"</item>
+        <item>"History"</item>
+        <item>"Politics"</item>
+        <item>"Comics"</item>
+        <item>"Animals"</item>
+        <item>"Vehicles"</item>
+    </string-array>
+
+</resources>
